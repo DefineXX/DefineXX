@@ -31,8 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <br><br><br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefineXX&layout=compact)
-![DefineXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefineXX&show_icons=true&theme=rose)
-
+![DefineXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefineXX&show_icons=true&theme=codeSTACKr&border_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DefineXX)](https://git.io/streak-stats)
+  
 </div>
